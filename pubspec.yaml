@@ -6,14 +6,14 @@ description:
 homepage: https://github.com/dint-dev/universal_html
 
 environment:
-  sdk: '>=2.8.0 <3.0.0'
+  sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
   async: ^2.4.0
   charcode: ^1.1.0
   collection: ^1.14.0
   csslib: ^0.16.0
-  html: ^0.14.0
+  html: ^0.15.0
   meta: ^1.2.0
   typed_data: ^1.2.0
   universal_io: '>=1.0.2 <3.0.0'
